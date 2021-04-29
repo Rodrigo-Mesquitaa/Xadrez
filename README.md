@@ -1,2 +1,2 @@
 # Xadrez
-Projeto Console Application DotNet Core 5.0
+Projeto Console Application DotNet 5.0
